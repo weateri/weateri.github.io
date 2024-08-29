@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://weateri.github.io/sitemap.html.gz
+Sitemap: https://weateri.github.io/app/sitemap.html.gz
+Sitemap: https://weateri.github.io/assets/sitemap.html.gz
+Sitemap: https://weateri.github.io/css/sitemap.html.gz
+Sitemap: https://weateri.github.io/includes/sitemap.html.gz
+Sitemap: https://weateri.github.io/item/sitemap.html.gz
+Sitemap: https://weateri.github.io/src/sitemap.html.gz
